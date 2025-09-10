@@ -10,7 +10,7 @@ Frontend Devloper
 
 🌍 Building web apps with focus on speed, design & usability
 
-* 🌍  I'm based in Bhopal
+* 🌍  I'm From Bhopal
 * ✉️  You can contact me at [vijendrasinghparmar553@gmail.com](mailto:vijendrasinghparmar553@gmail.com)
 * 🧠  I'm currently learning Data Structures & Algorithm , WebDevlopment
 * 👥  I'm looking to collaborate on Projects
